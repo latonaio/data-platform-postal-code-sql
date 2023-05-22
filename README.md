@@ -9,9 +9,9 @@ https://api.xxx.com/api/API_XXXXX_XXX/overview
 data-platform-postal-code-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
 * data-platform-postal-code-sql-postal-code-data.sql（データ連携基盤 郵便番号 - 郵便番号データ）
-* data-platform-postal-code-sql-postal-code-data-setup.sql（データ連携基盤 郵便番号 - 郵便番号データ 設定）
+* data-platform-postal-code-sql-postal-code-data-setup.sql（データ連携基盤 郵便番号 - 郵便番号データの設定）
 * data-platform-postal-code-sql-postal-code-address-data.sql（データ連携基盤 郵便番号 - 郵便番号住所データ）
-* data-platform-postal-code-sql-postal-code-address-data-setup.sql（データ連携基盤 郵便番号 - 郵便番号住所データ 設定）
+* data-platform-postal-code-sql-postal-code-address-data-setup.sql（データ連携基盤 郵便番号 - 郵便番号住所データの設定）
 
 ## 設定値
 
